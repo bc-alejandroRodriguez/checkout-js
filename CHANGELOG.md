@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.233.1-prerelease.1658344712350](https://github.com/bigcommerce/checkout-js/compare/v1.233.0...v1.233.1-prerelease.1658344712350) (2022-07-20)
+
+
+### Bug Fixes
+
+* **payment:** INT-5854 [Mollie] Klarna is not available if cart contains digital products ([aa3d3bb](https://github.com/bigcommerce/checkout-js/commit/aa3d3bbbeb4a51195026d6ca8ca370de65102efc))
+
 ## [1.233.0](https://github.com/bigcommerce/checkout-js/compare/v1.232.6...v1.233.0) (2022-07-18)
 
 
