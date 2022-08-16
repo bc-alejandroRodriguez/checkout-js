@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.246.1-prerelease.1660674105614](https://github.com/bigcommerce/checkout-js/compare/v1.246.0...v1.246.1-prerelease.1660674105614) (2022-08-16)
+
+
+### Bug Fixes
+
+* **payment:** INT-5854 [Mollie] Klarna is not available if cart contains digital products ([5c344eb](https://github.com/bigcommerce/checkout-js/commit/5c344eb86cb7822f0e164e44b45083f3ada8df8c))
+* **payment:** INT-6392 [Mollie] Shopper are able to place orders with Digital items through Klarna Pay Later and Slice it when them are added via coupon ([d7066ec](https://github.com/bigcommerce/checkout-js/commit/d7066ec51d85ebb57f96abddea8b3a43798812d5))
+
 ## [1.246.0](https://github.com/bigcommerce/checkout-js/compare/v1.245.4...v1.246.0) (2022-08-16)
 
 
