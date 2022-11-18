@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.274.1-prerelease.1668797145796](https://github.com/bigcommerce/checkout-js/compare/v1.274.1-prerelease.1668640607024...v1.274.1-prerelease.1668797145796) (2022-11-18)
+
+
+### Bug Fixes
+
+* **checkout:** INT-6968 fix for the misaligned text when it has spaces in between on APMs name ([43210ff](https://github.com/bigcommerce/checkout-js/commit/43210ff00684b3e5347a8baeeb8106b406273cb5))
+
 ### [1.274.1-prerelease.1668640607024](https://github.com/bigcommerce/checkout-js/compare/v1.274.1-prerelease.1668615149286...v1.274.1-prerelease.1668640607024) (2022-11-16)
 
 ### [1.274.1-prerelease.1668615149286](https://github.com/bigcommerce/checkout-js/compare/v1.274.0...v1.274.1-prerelease.1668615149286) (2022-11-16)
